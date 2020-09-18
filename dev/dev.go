@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/metaleap/go-util"
+	"github.com/ralihachev/go-util"
 	"github.com/ralihachev/go-util/fs"
 	"github.com/ralihachev/go-util/run"
 	"github.com/ralihachev/go-util/slice"

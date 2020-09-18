@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/metaleap/go-util"
+	"github.com/ralihachev/go-util"
 	"github.com/ralihachev/go-util/dev"
 	"github.com/ralihachev/go-util/fs"
 	"github.com/ralihachev/go-util/run"

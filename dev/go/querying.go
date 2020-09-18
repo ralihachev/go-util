@@ -7,7 +7,7 @@ import (
 
 	gurujson "golang.org/x/tools/cmd/guru/serial"
 
-	"github.com/metaleap/go-util"
+	"github.com/ralihachev/go-util"
 	"github.com/ralihachev/go-util/dev"
 	"github.com/ralihachev/go-util/fs"
 	"github.com/ralihachev/go-util/run"
