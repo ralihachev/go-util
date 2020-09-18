@@ -3,7 +3,7 @@ package unum
 import (
 	"math"
 
-	"github.com/metaleap/go-util"
+	"github.com/metaleap/ralihachev"
 )
 
 func Vec3_Back() Vec3 {

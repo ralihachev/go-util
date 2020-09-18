@@ -3,7 +3,7 @@ package umgo
 import (
 	"fmt"
 
-	"github.com/metaleap/go-util"
+	"github.com/metaleap/ralihachev"
 	"labix.org/v2/mgo"
 	"labix.org/v2/mgo/bson"
 )

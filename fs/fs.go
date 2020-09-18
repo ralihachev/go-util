@@ -9,8 +9,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/metaleap/go-util/slice"
-	"github.com/metaleap/go-util/str"
+	"github.com/metaleap/ralihachev/slice"
+	"github.com/metaleap/ralihachev/str"
 )
 
 //	Handles a file-system notification originating in a `Watcher`.

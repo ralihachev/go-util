@@ -3,8 +3,8 @@ package udevgo
 import (
 	"strings"
 
-	"github.com/metaleap/go-util/dev"
-	"github.com/metaleap/go-util/str"
+	"github.com/metaleap/ralihachev/dev"
+	"github.com/metaleap/ralihachev/str"
 )
 
 var (
