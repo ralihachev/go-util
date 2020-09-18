@@ -11,11 +11,11 @@ import (
 	"sync"
 	"unicode"
 
-	"github.com/metaleap/ralihachev/dev"
-	"github.com/metaleap/ralihachev/fs"
-	"github.com/metaleap/ralihachev/run"
-	"github.com/metaleap/ralihachev/slice"
-	"github.com/metaleap/ralihachev/str"
+	"github.com/ralihachev/go-util/dev"
+	"github.com/ralihachev/go-util/fs"
+	"github.com/ralihachev/go-util/run"
+	"github.com/ralihachev/go-util/slice"
+	"github.com/ralihachev/go-util/str"
 )
 
 type Pkg struct {

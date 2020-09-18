@@ -3,7 +3,7 @@ package udevhs
 import (
 	"strings"
 
-	"github.com/metaleap/ralihachev/run"
+	"github.com/ralihachev/go-util/run"
 )
 
 var (

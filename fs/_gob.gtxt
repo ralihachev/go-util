@@ -8,7 +8,7 @@ import (
 
 // wot
 
-	util "github.com/metaleap/ralihachev"
+	util "github.com/metaleap/go-util"
 )
 
 type AnyToAny func(src interface{}) interface{}
