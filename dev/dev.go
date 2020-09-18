@@ -4,12 +4,6 @@ import (
 	"os/exec"
 	"strconv"
 	"strings"
-
-	"github.com/metaleap/go-util"
-	"github.com/metaleap/go-util/fs"
-	"github.com/metaleap/go-util/run"
-	"github.com/metaleap/go-util/slice"
-	"github.com/metaleap/go-util/str"
 )
 
 type SrcMsg struct {
